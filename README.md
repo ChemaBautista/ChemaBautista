@@ -3,9 +3,9 @@ Hi 👋 My name is Chema Bautista
 
 * 🌍  I'm based in México
 * ✉️  You can contact me at [chema.kv0918@gmail.com](mailto:chema.kv0918@gmail.com)
-* 🚀  I'm currently working on [SICODI](http://sicodi.oaxaca.gob.mx/login)
+* 🚀  I'm currently working on DGTID
 * 🧠  I'm learning Flutter, React and Vim
-* 🤝  I'm open to collaborating on Laravel an Vue
+* 🤝  I'm open to collaborating on Laravel and Vue
 * ⚡  Amante de la programación
 
 <a href="https://www.twitter.com/Ch3ma_BS" target="_blank" rel="noreferrer"><img
