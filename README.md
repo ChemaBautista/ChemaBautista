@@ -12,8 +12,27 @@ Hi 👋 My name is Chema Bautista
 src="https://img.shields.io/twitter/follow/Ch3ma_BS?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/ChemaBautista" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ChemaBautista?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,apple,bash,bootstrap,bun,docker,git,jquery,laravel,mysql,neovim,php,postgres,ts,vue,vscode,webpack)](https://skillicons.dev)
+
+## 🔧 Skills
+
+### 🧠 Lenguajes de programación y marcado  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,bash)](https://skillicons.dev)
+
+### 🧰 Frameworks y Librerías  
+[![My Skills](https://skillicons.dev/icons?i=jquery,bootstrap,laravel,vue,angular,bun)](https://skillicons.dev)
+
+### 🗄️ Bases de Datos  
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres)](https://skillicons.dev)
+
+### ⚙️ DevOps y Herramientas de entorno  
+[![My Skills](https://skillicons.dev/icons?i=git,docker,webpack)](https://skillicons.dev)
+
+### 🛠️ Entornos de Desarrollo  
+[![My Skills](https://skillicons.dev/icons?i=neovim,vscode)](https://skillicons.dev)
+
+### 🍏 Plataforma  
+[![My Skills](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
+
 
 ### Socials
 
