@@ -13,7 +13,7 @@ src="https://img.shields.io/twitter/follow/Ch3ma_BS?logo=twitter&style=for-the-b
 /></a><a href="https://www.github.com/ChemaBautista" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ChemaBautista?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,apple,bash, bootstrap, bun, docker, git, jquery, laravel, mysql, neovim, php, postgres, ts,vue, vscode, webpack)](https://skillicons.dev)
 
 ### Socials
 
